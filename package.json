@@ -1,0 +1,21 @@
+{
+  "name": "MichaelArnelcom-site",
+  "version": "2.8.3",
+  "private": true,
+  "dependencies": {
+    "hexo-renderer-ejs": "^0.1.0",
+    "hexo-renderer-marked": "^0.1.0",
+    "hexo-renderer-stylus": "^0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-git": "^0.3.4",
+    "grunt-hashres": "*",
+    "grunt-line-remover": "*",
+    "grunt-shell": "*",
+    "hexo-generator-json": "*"
+  }
+}

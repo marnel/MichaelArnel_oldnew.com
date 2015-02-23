@@ -1,0 +1,26 @@
+date: "2015-02-15 18:54:29.929"
+argv: node /usr/local/bin/hexo new page About
+os: Darwin 14.1.0 darwin x64
+versions:
+  http_parser: "1.0"
+  node: 0.10.35
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.30
+  zlib: 1.2.8
+  modules: "11"
+  openssl: 1.0.1j
+  hexo: 2.8.3
+---
+[debug] 18:54:29.655 Config file loaded from /Users/marnel/WebProjects/MichaelArnelcom/_config.yml[debug] 18:54:29.658 Version info checked successfully[debug] 18:54:29.677 Loading database.[debug] 18:54:29.738 Processed: draft.md (2ms)[debug] 18:54:29.738 Processed: page.md (2ms)[debug] 18:54:29.738 Processed: photo.md (1ms)[debug] 18:54:29.738 Processed: post.md (1ms)[debug] 18:54:29.738 Processed: page_old.md (1ms)[debug] 18:54:29.744 Plugin loaded successfully: hexo-generator-json[debug] 18:54:29.758 Plugin loaded successfully: hexo-renderer-ejs[debug] 18:54:29.773 Plugin loaded successfully: hexo-renderer-marked[debug] 18:54:29.915 Plugin loaded successfully: hexo-renderer-stylus[debug] 18:54:29.917 Script load successfully: fancybox.js[error] 18:54:29.922 TypeError: Cannot call method 'replace' of undefined
+TypeError: Cannot call method 'replace' of undefined
+    at Object.exports.parse (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/parser.js:437:19)
+    at parse (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/swig.js:343:19)
+    at Object.precompile (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/swig.js:473:23)
+    at Object.compile (/usr/local/lib/node_modules/hexo/node_modules/swig/lib/swig.js:588:16)
+    at Array.async.auto.content [as 2] (/usr/local/lib/node_modules/hexo/lib/post/create.js:69:28)
+    at listener (/usr/local/lib/node_modules/hexo/node_modules/async/lib/async.js:493:46)
+    at /usr/local/lib/node_modules/hexo/node_modules/async/lib/async.js:444:17
+    at Array.forEach (native)
+    at _each (/usr/local/lib/node_modules/hexo/node_modules/async/lib/async.js:46:24)
+    at Object.taskComplete (/usr/local/lib/node_modules/hexo/node_modules/async/lib/async.js:443:13)
