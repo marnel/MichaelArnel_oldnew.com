@@ -20,4 +20,4 @@ In my next article I'll go into detail about the following:
 - Details about setting up and using the SSG
 - Publishing the generated site content to github pages so your site is publicly available.
 
-<span class="pull-right"><a href="/2015/02/28/Building-A-Website-With-Hexo-io/">Next: Building A Site with Hexo.io</a></span>
+<span class="pull-right"><a href="/2015/03/01/Building-A-Website-With-Hexo-io/">Next: Building A Site with Hexo.io</a></span>

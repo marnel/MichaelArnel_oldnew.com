@@ -16,7 +16,7 @@ There are many benefits to using SSG's to build and maintain your site.
 
 Once you've decided to use a SSG to build your website with, it's time to choose a SSG to use.  There are many tools out there for you to choose from.  It's important to choose one that's built on a platform your comfortable developing on, for example javascript, ruby, php, etc.  This is important because you want to be able to contribute to the project, or possibly fix bugs that might be impacting your site.  For the purposes of this tutorial i've chosen to use <a href="http://hexo.io">Hexo.io</a> which is built using JavaScript on Node.js  Hexo is also the same SSG I've used to build MichaelArnel.com
 
-<img src="/2015/02/28/Building-A-Website-With-Hexo-io/logo.png" />
+<img src="/2015/03/01/Building-A-Website-With-Hexo-io/logo.png" />
 
 This tutorial makes the assumption that you're already familiar with NodeJS and already have it installed to your system.  If you need to install NodeJS please head on over to <a href="http://nodejs.org/">the node.js homepage</a> and follow the instructions there.  Once complete continue back over here.
 ##Hexo Quick Setup:
@@ -47,7 +47,7 @@ hexo server
 {% endcodeblock %}
 
 Your brand new Blog website is up and running now!  Open up a web browser and navigate to http://localhost:4000.  You should see something simular to the image below in your browser.
-<img src="/2015/02/28/Building-A-Website-With-Hexo-io/new-blog-site.png" />
+<img src="/2015/03/01/Building-A-Website-With-Hexo-io/new-blog-site.png" />
 **Pretty Cool!** In less than 5 minutes you have a fully functional website up and running and all you've done is run a few commands from the command line.  Let's start adding some content so we can customize it. Before we being let's take a look at the directory contents created by hexo.  You should see something similar to the structure below.
 
 {% codeblock  %}
