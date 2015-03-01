@@ -51,7 +51,6 @@ For a full page view <a href="/resume-fullpage/index.html">click here</a>
 - Provided complex SQL scripts and Stored Procedures to extract complicated datasets / data orders for the platinum customers who required specialized data beyond the general data order.
 - Developed DTS packages that gave Data Services employees the ability to import and export data without taking time away from the Database team members.
 
-<br />
 <h2>Skills</h2><hr />
 
 <span style="font-size: 24px; font-weight: 800">Programming Languages</span>
@@ -71,7 +70,6 @@ For a full page view <a href="/resume-fullpage/index.html">click here</a>
 <span style="font-size: 24px; font-weight: 800">Databases</span>
 
 - Microsoft SQL Server, MySQL, MongoDB
-<br />
 
 <h2>Education</h2><hr />
 <resumeblock>
